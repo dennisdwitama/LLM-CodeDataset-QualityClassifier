@@ -1,4 +1,4 @@
-# Filtering Coding Instruction Datasets for Quality  
+# Filtering Coding Instruction Datasets for Quality Checking
 ### Classification using LLM (ChatGPT-4)
 
 ## 📌 Overview
